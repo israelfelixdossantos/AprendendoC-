@@ -8,3 +8,6 @@ Console.WriteLine(projeto1 >=7 && projeto2 >=7);
 
 // Operador OU
 Console.WriteLine(projeto1 >=7 || projeto2 >=7);
+
+// Operador Negação
+Console.WriteLine(!true);
