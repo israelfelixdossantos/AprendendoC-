@@ -1,0 +1,14 @@
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\02variaveis\bin\Debug\net8.0\02variaveis.exe
+C:\Users\grrif\Desktop\C# logica\02variaveis\bin\Debug\net8.0\02variaveis.deps.json
+C:\Users\grrif\Desktop\C# logica\02variaveis\bin\Debug\net8.0\02variaveis.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\02variaveis\bin\Debug\net8.0\02variaveis.dll
+C:\Users\grrif\Desktop\C# logica\02variaveis\bin\Debug\net8.0\02variaveis.pdb
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.dll
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\refint\02variaveis.dll
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.pdb
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\02variaveis.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\02variaveis\obj\Debug\net8.0\ref\02variaveis.dll
