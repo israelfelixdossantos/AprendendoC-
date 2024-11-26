@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\06conversao\bin\Debug\net8.0\06conversao.exe
+C:\Users\grrif\Desktop\C# logica\06conversao\bin\Debug\net8.0\06conversao.deps.json
+C:\Users\grrif\Desktop\C# logica\06conversao\bin\Debug\net8.0\06conversao.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\06conversao\bin\Debug\net8.0\06conversao.dll
+C:\Users\grrif\Desktop\C# logica\06conversao\bin\Debug\net8.0\06conversao.pdb
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.dll
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\refint\06conversao.dll
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.pdb
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\06conversao.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\06conversao\obj\Debug\net8.0\ref\06conversao.dll
