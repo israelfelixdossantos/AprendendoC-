@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\bin\Debug\net8.0\07operadores_aritimeticos.exe
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\bin\Debug\net8.0\07operadores_aritimeticos.deps.json
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\bin\Debug\net8.0\07operadores_aritimeticos.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\bin\Debug\net8.0\07operadores_aritimeticos.dll
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\bin\Debug\net8.0\07operadores_aritimeticos.pdb
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.dll
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\refint\07operadores_aritimeticos.dll
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.pdb
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\07operadores_aritimeticos.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\07operadores_aritimeticos\obj\Debug\net8.0\ref\07operadores_aritimeticos.dll
