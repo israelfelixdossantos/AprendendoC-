@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\bin\Debug\net8.0\08operadores_relacional.exe
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\bin\Debug\net8.0\08operadores_relacional.deps.json
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\bin\Debug\net8.0\08operadores_relacional.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\bin\Debug\net8.0\08operadores_relacional.dll
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\bin\Debug\net8.0\08operadores_relacional.pdb
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.dll
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\refint\08operadores_relacional.dll
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.pdb
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\08operadores_relacional.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\08operadores_relacional\obj\Debug\net8.0\ref\08operadores_relacional.dll
