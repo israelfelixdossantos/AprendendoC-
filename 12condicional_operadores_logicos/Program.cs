@@ -1,4 +1,4 @@
-﻿double valor 500;
+﻿double valor = 500;
 string pagamento = "à vista";
 
 if(valor >= 100 && pagamento == "à vista")
