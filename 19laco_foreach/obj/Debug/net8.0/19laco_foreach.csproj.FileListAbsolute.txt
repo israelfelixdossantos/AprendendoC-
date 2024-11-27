@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\bin\Debug\net8.0\19laco_foreach.exe
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\bin\Debug\net8.0\19laco_foreach.deps.json
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\bin\Debug\net8.0\19laco_foreach.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\bin\Debug\net8.0\19laco_foreach.dll
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\bin\Debug\net8.0\19laco_foreach.pdb
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.dll
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\refint\19laco_foreach.dll
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.pdb
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\19laco_foreach.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\19laco_foreach\obj\Debug\net8.0\ref\19laco_foreach.dll
