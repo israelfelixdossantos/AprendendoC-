@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.exe
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.deps.json
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.dll
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\bin\Debug\net8.0\14estrutura_escolha.pdb
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.dll
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\refint\14estrutura_escolha.dll
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.pdb
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\14estrutura_escolha.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\14estrutura_escolha\obj\Debug\net8.0\ref\14estrutura_escolha.dll
