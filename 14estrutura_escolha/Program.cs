@@ -6,18 +6,31 @@
 switch (linguagem)
 {
     case "HTML":
-    Console.WriteLine("Liguagem de Marcação.");
+    Console.WriteLine("Linguagem de Marcação.");
     break;
 
     case "CSS":
-    Console.WriteLine("Liguagem de estilos.");
+    Console.WriteLine("Linguagem de estilos.");
     break;
 
     case "C#":
-    Console.WriteLine("Liguagem de programação.");
+    Console.WriteLine("Linguagem de programação.");
     break;
 
     default:
-    Console.WriteLine("Liguagem de desconhecida.");
+    Console.WriteLine("Linguagem de desconhecida.");
     break;
-}
+};
+
+// Expressão switch 
+
+string retorno = linguagem switch
+{
+    "HTML" => "Linguagem de marcação", 
+    "CSS"  => "Linguagem de estilo", 
+    "C#"   => "Linguagem de programação", 
+    _      => "Linguagem desconhecida" 
+    
+};
+
+Console.WriteLine(retorno);
