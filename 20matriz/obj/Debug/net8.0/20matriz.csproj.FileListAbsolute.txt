@@ -1,0 +1,15 @@
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.AssemblyInfoInputs.cache
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.AssemblyInfo.cs
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.csproj.CoreCompileInputs.cache
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.sourcelink.json
+C:\Users\grrif\Desktop\C# logica\20matriz\bin\Debug\net8.0\20matriz.exe
+C:\Users\grrif\Desktop\C# logica\20matriz\bin\Debug\net8.0\20matriz.deps.json
+C:\Users\grrif\Desktop\C# logica\20matriz\bin\Debug\net8.0\20matriz.runtimeconfig.json
+C:\Users\grrif\Desktop\C# logica\20matriz\bin\Debug\net8.0\20matriz.dll
+C:\Users\grrif\Desktop\C# logica\20matriz\bin\Debug\net8.0\20matriz.pdb
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.dll
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\refint\20matriz.dll
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.pdb
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\20matriz.genruntimeconfig.cache
+C:\Users\grrif\Desktop\C# logica\20matriz\obj\Debug\net8.0\ref\20matriz.dll
